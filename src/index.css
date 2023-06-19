@@ -205,6 +205,7 @@ form h2 {
   border-bottom-left-radius: var(--borderRadius);
   border: 0.1px solid var(--grey-300);
   width: 48vw;
+  font-size: 16px;
 }
 
 
