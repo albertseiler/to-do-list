@@ -187,6 +187,7 @@ PROJECT CSS
   padding: 2rem;
   box-shadow: var(--shadow-3);
   transition: var(--transition);
+  background: var(--grey-200);
 }
 
 form h2 {
